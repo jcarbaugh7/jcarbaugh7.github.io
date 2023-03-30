@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jack Carbaugh # your name (or website title) here
+logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  Data Scientist with 3 years of experience. Master's degree in Statistical Practice from Boston University.
+  Projects completed from a variety of fields, including health, business, and environmental.
+  <br> <br>
+  Previous work as consulting assistant and research assistant at Boston University. Experienced in R, Python, and SQL.
+  <br> <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
