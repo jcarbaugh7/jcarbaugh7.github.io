@@ -51,4 +51,5 @@ Football games act as major fundraising events for many of the United States' la
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Hosted on GitHub Pages. Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
 <!-- Remove above link if you don't want to attibute -->
