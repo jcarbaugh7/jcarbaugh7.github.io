@@ -1,4 +1,4 @@
-## Selected Project Examples
+## Selected Projects
 
 ---
 
